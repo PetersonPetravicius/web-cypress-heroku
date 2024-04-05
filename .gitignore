@@ -1,0 +1,17 @@
+# Ignorar a pasta "downloads"
+downloads/
+
+# Ignorar a pasta "videos"
+videos/
+
+# Ignorar a pasta "node_modules"
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação
+*.class
+
+# Ignorar arquivos de video
+*.mp4

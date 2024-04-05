@@ -1,0 +1,17 @@
+{
+  "name": "herokuappproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "cypress": "^12.5.0"
+  }
+}
