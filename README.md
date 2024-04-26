@@ -155,7 +155,6 @@ O projeto se encontra em sua versão 1.1
 ## 🎁 Expressões de gratidão
 
 * Este projeto foi uma retomada de conhecimento sobre os conceitos basicos de automação WEB após receber um desafio de implementação 📢;
-* Um brinde a minha nova equipe #MeuTudo 🍺;
 
 ---
 
